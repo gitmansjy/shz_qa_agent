@@ -31,7 +31,7 @@ warnings.filterwarnings('ignore')
 
 # ==================== 配置区域 ====================
 # 在这里设置你的API Key
-DASHSCOPE_API_KEY = "sk-c5f85b787a954210a04b8fe8f9481ee2"  # 替换为你的API Key
+DASHSCOPE_API_KEY = "替换为你的API Key"  # 替换为你的API Key
 os.environ['DASHSCOPE_API_KEY'] = DASHSCOPE_API_KEY
 dashscope.api_key = DASHSCOPE_API_KEY
 
